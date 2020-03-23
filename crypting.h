@@ -1,0 +1,8 @@
+//
+// Created by tile1 on 23/03/2020.
+//
+
+#ifndef SIMPLECRYPT_CRYPTING_H
+#define SIMPLECRYPT_CRYPTING_H
+
+#endif //SIMPLECRYPT_CRYPTING_H
