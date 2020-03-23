@@ -1,8 +1,5 @@
-//
-// Created by tile1 on 23/03/2020.
-//
 
 #ifndef SIMPLECRYPT_CRYPTING_H
 #define SIMPLECRYPT_CRYPTING_H
-
+char * randomized (const char rawstr[], int raw_len);
 #endif //SIMPLECRYPT_CRYPTING_H
