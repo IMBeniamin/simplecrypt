@@ -8,5 +8,5 @@ void seed_initializer() {
 }
 
 int get_rand() {
-    return rand() % 5;
+    return rand() % 50;
 }
