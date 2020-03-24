@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/dev/simplecrypt/crypting.h
+randgen.h
+D:/dev/simplecrypt/randgen.h
+string.h
+D:/dev/simplecrypt/string.h
+globals.h
+D:/dev/simplecrypt/globals.h
+stdlib.h
+-
+
+D:/dev/simplecrypt/decrypting.h
+globals.h
+D:/dev/simplecrypt/globals.h
+stdlib.h
+D:/dev/simplecrypt/stdlib.h
+
+D:/dev/simplecrypt/globals.h
+
+D:/dev/simplecrypt/main.c
+stdio.h
+-
+crypting.h
+D:/dev/simplecrypt/crypting.h
+decrypting.h
+D:/dev/simplecrypt/decrypting.h
+
+D:/dev/simplecrypt/randgen.h
+
