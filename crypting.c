@@ -1,12 +1,4 @@
-#include "randgen.h"
-#include <stdlib.h>
-#include "string.h"
-#include "stdio.h"
-typedef struct {
-    int len;
-    char *randomized_str;
-    int *key;
-}DeCrypt;
+#include "crypting.h"
 
 DeCrypt randomized (const char rawstr[], int raw_len) {
     DeCrypt generated;
